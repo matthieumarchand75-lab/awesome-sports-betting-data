@@ -97,7 +97,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 ### Blogs and Video
 
 - [Circles Off](https://www.youtube.com/@CirclesOffHQ) - Long-form interviews with professional bettors and betting industry figures.
-- [Plus EV Analytics](https://plusevanalytics.wordpress.com/) - Blog applying statistical and actuarial methods to gambling propositions.
+- [Plus EV Analytics](https://plusevanalytics.wordpress.com/) - Blog applying statistical and actuarial methods to gambling propositions.- [Precix Blog](https://precix.fr/blog/) - French-language articles on sample size, bankroll staking, bookmaker margin, and closing line value, with free calculators.
 
 ## Prediction Market APIs
 

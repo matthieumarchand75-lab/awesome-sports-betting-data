@@ -60,6 +60,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [sports-odds-datasets](https://github.com/JacobiusMakes/sports-odds-datasets) - Open snapshots of sportsbook odds data, maintained by ParlayAPI.
 - [SportsDataverse](https://www.sportsdataverse.org/) - Family of open-source sports data packages across R, Python, and Node.
 - [Tennis Abstract](https://www.tennisabstract.com/) - Jeff Sackmann's tennis stats site with open match-level data.
+- [Tennis Closing Odds (Pinnacle vs 1xBet)](https://www.kaggle.com/datasets/smartoddstenis/tennis-closing-odds-pinnacle-vs-1xbet) - Kaggle dataset of 6,125 ATP, WTA, Challenger and ITF matches with paired Pinnacle and 1xBet closing odds and results.
 - [Tennis-Data.co.uk](http://www.tennis-data.co.uk/) - Free CSVs of historical ATP and WTA results with bookmaker odds.
 
 ## Open Source Tools and Scanners
